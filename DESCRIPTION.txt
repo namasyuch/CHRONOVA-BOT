@@ -1,0 +1,45 @@
+# CHRONOVA-BOT
+
+CHRONOVA-BOT is a compact interactive AI desk companion that I am building with my brother. It has an expressive TFT face, voice input and output, RFID identification, sensors, a camera, games, and a web dashboard. It can also react to interactions and have different moods/personality.
+
+The robot is designed to stay on a desk rather than being a walking robot. I decided to keep the body stationary and focus more on making the robot feel interactive and useful. I also plan to use a servo for simple head movement.
+
+## Main features
+
+* Expressive face on a TFT display
+* Voice input using an INMP441 microphone
+* Audio output using a MAX98357A amplifier and speaker
+* AI-based question answering
+* RFID card/tag identification
+* Camera through an ESP32-CAM
+* Temperature and humidity sensing
+* Motion/tilt sensing
+* Ultrasonic distance sensing
+* Touch and presence detection
+* Joystick and buttons for interaction
+* Simple games
+* Web dashboard
+* Different moods and personality behaviours
+* Servo-based head movement
+
+## Hardware
+
+The main controller is an ESP32-S3-WROOM-1 N16R8. Other parts include a 2.8" SPI TFT display, RC522 RFID reader, INMP441 microphone, MAX98357A amplifier, speaker, ESP32-CAM with OV3660, ADXL345, DHT11, ultrasonic sensor, touch sensor, PIR sensor and an MG90S servo.
+
+For power, I am using a 3S 11.1V 2000mAh battery setup with a BMS, fuse, switch and buck converter.
+
+## What I learned
+
+While working on CHRONOVA-BOT, I learned more about combining different hardware modules into one project, planning power requirements, using sensors, working with displays and audio, and designing a project around an ESP32-S3.
+
+One of the biggest things I learned was that adding more features is not always better. I originally considered making the robot move around, but I decided to remove the motors and keep it as a desk companion so I could focus on the interaction and make the project more realistic to finish.
+
+## AI usage
+
+I used AI as a learning and debugging assistant while working on the project. I used it to understand components, troubleshoot problems, and discuss possible implementations, but I made the project decisions and worked on the build myself.
+
+## Links
+
+GitHub: [PASTE YOUR GITHUB URL HERE]
+
+Demo: [PASTE YOUR DEMO LINK HERE]
