@@ -1,0 +1,38 @@
+Part,Quantity,Purpose
+ESP32-S3-WROOM-1 N16R8 Development Board,1,Main controller
+2.8 inch 240x320 SPI TFT Display,1,Face and interface
+Joystick Module,1,Main control
+Push Buttons,5,User controls
+RC522 RFID Reader,1,RFID identification
+13.56MHz RFID Card,1,User identification
+13.56MHz RFID Key Tag,1,User identification
+INMP441 I2S Microphone,1,Voice input
+MAX98357A I2S Amplifier,1,Audio output
+4 Ohm 10W Speaker,1,Audio output
+5V Active Buzzer,1,Alerts and sounds
+ESP32-CAM with OV3660,1,Camera
+ADXL345 Accelerometer,1,Tilt and shake detection
+DHT11 Sensor,1,Temperature and humidity
+HC-SR04 Ultrasonic Sensor,1,Distance detection
+Capacitive Touch Sensor,1,Touch interaction
+PIR Motion Sensor,1,Presence detection
+MG90S 180 Degree Servo,1,Head movement
+3S 11.1V 2000mAh Li-ion Battery Pack,1,Main power
+3S 20A BMS,1,Battery protection
+LM2596 Buck Converter,1,Voltage regulation
+5V Buck Converter,1,Regulated 5V supply
+5A 5x20mm Glass Fuse,5,Power protection and spares
+5x20mm Inline Fuse Holder,1,Fuse holder
+2 Pin ON/OFF Rocker Switch,1,Main power switch
+3S 12.6V 2A CC/CV Charger,1,Battery charging
+DC-DC Power Distribution Terminal/Connector Set,1 set,Power distribution
+Inline DC Fuse/Protection Connector,1 set,Additional power protection
+Battery-rated Power Connector,1 pair,Battery connection
+JST Connectors and Power Connectors,1 set,Removable power connections
+Hookup Wires,1 set,Wiring
+Heat Shrink Tubing,1 set,Wire insulation
+Cable Sleeving / Wire Management,1 set,Wire organization
+Servo Mounting Hardware,1 set,Servo installation
+Screws Nuts Spacers and Standoffs,1 set,Assembly
+Small Screw Terminal Blocks / Distribution Blocks,1 set,Power distribution
+Prototype Body Material,1 set,Robot enclosure
